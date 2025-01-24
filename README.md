@@ -18,8 +18,13 @@ A basic calculator application built using HTML, CSS, and JavaScript. This proje
 2. Open the `index.html` file in any modern web browser.  
 3. Use the buttons to perform calculations!  
 
-## Screenshots  
+## Screenshots
+- **Static Page**:
 ![simple calculator](https://github.com/user-attachments/assets/3e261e92-2ddf-4364-97e3-c1187b174a8e)
+
+- **Infinity Calculation**:
+![Divisibility check](https://github.com/user-attachments/assets/7732a214-9195-4286-b452-b4c078cb6b6b) ![infinity check](https://github.com/user-attachments/assets/26a0e6a2-a0de-4790-b18a-e961fc6f0996)
+
 
 ## Code Overview  
 ### HTML  
