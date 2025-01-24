@@ -1,3 +1,5 @@
+---
+
 # Simple Calculator  
 
 A basic calculator application built using HTML, CSS, and JavaScript. This project allows users to perform basic arithmetic operations in a user-friendly interface.  
@@ -55,5 +57,3 @@ Contributions are welcome! Fork the repository, create a branch, and submit a pu
 This project is open-source and available under the [MIT License](LICENSE).  
 
 ---
-
-Let me know if you’d like me to tailor it further!
