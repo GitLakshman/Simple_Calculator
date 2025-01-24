@@ -21,10 +21,8 @@ A basic calculator application built using HTML, CSS, and JavaScript. This proje
 ## Screenshots
 - **Static Page**:
 ![simple calculator](https://github.com/user-attachments/assets/3e261e92-2ddf-4364-97e3-c1187b174a8e)
-
 - **Infinity Check**:
 ![Divisibility check](https://github.com/user-attachments/assets/7732a214-9195-4286-b452-b4c078cb6b6b)
-
 - **Infinity Check Successfull**:
 ![infinity check](https://github.com/user-attachments/assets/26a0e6a2-a0de-4790-b18a-e961fc6f0996)
 
