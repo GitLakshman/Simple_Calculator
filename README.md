@@ -25,7 +25,7 @@ A basic calculator application built using HTML, CSS, and JavaScript. This proje
 - **Infinity Check**:
 ![DivisibilityCheck](https://github.com/user-attachments/assets/2a5ea1f9-e632-44ff-a8bc-eec40c0c3340)
 
-- **Infinity Check Successfull**:
+- **Infinity Check Successful**:
 ![CheckSuccessfull](https://github.com/user-attachments/assets/3afc0540-26b2-4b59-909a-0992087ea473)
 
 ## Code Overview  
