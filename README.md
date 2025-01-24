@@ -19,8 +19,7 @@ A basic calculator application built using HTML, CSS, and JavaScript. This proje
 3. Use the buttons to perform calculations!  
 
 ## Screenshots  
-![Screenshot of Calculator](![simple calculator](https://github.com/user-attachments/assets/3e261e92-2ddf-4364-97e3-c1187b174a8e)
-) *(Replace with a screenshot link if available)*  
+![simple calculator](https://github.com/user-attachments/assets/3e261e92-2ddf-4364-97e3-c1187b174a8e)
 
 ## Code Overview  
 ### HTML  
